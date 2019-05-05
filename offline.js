@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1557056607,
+	"version": 1557061531,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -96,6 +96,12 @@
 		"images/แนะนำเกม-sheet0.png",
 		"images/untitled10-sheet0.png",
 		"images/untitled11-sheet0.png",
+		"images/แบบทดสอบ15-sheet0.png",
+		"images/ต-sheet0.png",
+		"images/ต2-sheet0.png",
+		"images/untitled12-sheet0.png",
+		"images/untitled13-sheet0.png",
+		"images/untitled15-sheet0.png",
 		"media/swinging pants.ogg",
 		"media/jump1.ogg",
 		"media/เสียงปุ่ม.ogg",
